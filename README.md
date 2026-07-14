@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ayaanraza2008">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1200&text=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA%20%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C%20%F0%9D%95%80'%F0%9D%95%9E%20%CE%9B%E2%80%8B%E2%80%8B%F0%9F%87%BE%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B" alt="ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀&#39;𝕞 Λ​​🇾​​🇦​​🇦​​🇳​" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1200&text=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA%20%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C%20%F0%9D%95%80'%F0%9D%95%9E%20%CE%9B%E2%80%8B%E2%80%8B%F0%9F%87%BE%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B" alt="ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀&#39;𝕞 🇦​​🇾​​🇦​​🇦​​🇳​" />
   </a>
 </p>
 
