@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ayaanraza2008">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1200&text=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA%20%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C%20%F0%9D%95%80'%F0%9D%95%9E%20%CE%9B%E2%80%8B%E2%80%8B%F0%9F%87%BE%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B" alt="ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀&#39;𝕞 🇦​​🇾​​🇦​​🇦​​🇳​" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1200&text=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA%20%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C%20%F0%9D%95%80'%F0%9D%95%9E%20%F0%9F%87%A6%F0%9F%87%BE%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B" alt="ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀&#39;𝕞 🇦🇾​​🇦​​🇦​​🇳​" />
   </a>
 </p>
 
@@ -24,6 +24,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
